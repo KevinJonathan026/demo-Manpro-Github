@@ -1,1 +1,2 @@
 demo menambahkan text di file 1
+demo menambahkan baris dan mengedit lagi
