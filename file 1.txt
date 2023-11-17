@@ -1,1 +1,2 @@
-demo menambahkan text di file 1
+demo edit text remote repository
+demo menambahkan baris file 1
