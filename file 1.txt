@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 demo edit text remote repository
 demo menambahkan baris file 1
+=======
+demo menambahkan text di file 1
+demo menambahkan baris dan mengedit lagi
+>>>>>>> 02b76d6ca815c850ce4d846118da64ef6db13c81
